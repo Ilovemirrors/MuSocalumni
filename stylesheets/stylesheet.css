@@ -240,12 +240,6 @@ a {
     padding: 2rem 1rem;
     font-size: 1rem; } }
 
-img {
-  width: auto ;
-  max-width: 100% ;
-  height: auto ;
-}
-
 .site-footer {
   padding-top: 2rem;
   margin-top: 2rem;
