@@ -129,50 +129,62 @@ a {
   .col-lg-1 {
     float: left;
     width: 8.33%;
+    padding: 5px;
   }
   .col-lg-2 {
     float: left;
     width: 16.66%;
+    padding: 5px;
   }
   .col-lg-3 {
     float: left;
     width: 25%;
+    padding: 5px;
   }
   .col-lg-4 {
     float: left;
     width: 33.33%;
+    padding: 5px;
   }
   .col-lg-5 {
     float: left;
     width: 41.66%;
+    padding: 5px;
   }
   .col-lg-6 {
     float: left;
     width: 50%;
+    padding: 5px;
   }
   .col-lg-7 {
     float: left;
     width: 58.33%;
+    padding: 5px;
   }
   .col-lg-8 {
     float: left;
     width: 66.66%;
+    padding: 5px;
   }
   .col-lg-9 {
     float: left;
     width: 75%;
+    padding: 5px;
   }
   .col-lg-10 {
     float: left;
     width: 83.33%;
+    padding: 5px;
   }
   .col-lg-11 {
     float: left;
     width: 91.66%;
+    padding: 5px;
   }
 .col-lg-12 {
   float: left;
   width: 100%;
+  padding: 5px;
   }
   
   
@@ -181,50 +193,62 @@ a {
   .col-md-1 {
     float: left;
     width: 8.33%;
+    padding: 5px;
   }
   .col-md-2 {
     float: left;
     width: 16.66%;
+    padding: 5px;
   }
   .col-md-3 {
     float: left;
     width: 25%;
+    padding: 5px;
   }
   .col-md-4 {
     float: left;
     width: 33.33%;
+    padding: 5px;
   }
   .col-md-5 {
     float: left;
     width: 41.66%;
+    padding: 5px;
   }
   .col-md-6 {
     float: left;
     width: 50%;
+    padding: 5px;
   }
   .col-md-7 {
     float: left;
     width: 58.33%;
+    padding: 5px;
   }
   .col-md-8 {
     float: left;
     width: 66.66%;
+    padding: 5px;
   }
   .col-md-9 {
     float: left;
     width: 75%;
+    padding: 5px;
   }
   .col-md-10 {
     float: left;
     width: 83.33%;
+    padding: 5px;
   }
   .col-md-11 {
     float: left;
     width: 91.66%;
+    padding: 5px;
   }
 .col-md-12 {
   float: left;
   width: 100%;
+  padding: 5px;
   }
 
   
