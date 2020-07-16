@@ -113,13 +113,10 @@ a {
   padding: 5px;
 }*/
 
-/* Clear floats after image containers*/
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
+.main-content {
+  margin-left: auto;
+  margin-right: auto;
 }
-
 
 /*large devices only*/
 @media (min-width: 1200px) {
@@ -254,7 +251,6 @@ a {
   clear: both;
   display: table;
 }
-
   
   
 .main-content :first-child {
