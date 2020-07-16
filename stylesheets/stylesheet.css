@@ -113,16 +113,13 @@ a {
   padding: 5px;
 }*/
 
-/* Clear floats after image containers 
+/* Clear floats after image containers*/
 .row::after {
   content: "";
   clear: both;
   display: table;
-}*/
-
-.row {
-  width:100%;
 }
+
 
 /*large devices only*/
 @media (min-width: 1200px) {
@@ -250,6 +247,13 @@ a {
   width: 100%;
   padding: 5px;
   }
+  
+  /* Clear floats after image containers*/
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
   
   
