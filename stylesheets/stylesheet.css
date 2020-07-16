@@ -114,8 +114,8 @@ a {
 }*/
 
 .main-content {
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 /*large devices only*/
