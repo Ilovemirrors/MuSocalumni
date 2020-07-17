@@ -105,6 +105,10 @@ a {
   .project-tagline {
     font-size: 1rem; } }
 
+div {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
 
 /* Three image containers (use 25% for four, and 50% for two, etc)*/
 .column {
