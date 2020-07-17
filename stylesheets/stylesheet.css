@@ -105,14 +105,16 @@ a {
   .project-tagline {
     font-size: 1rem; } }
 
-div {
+/*div {
   padding-top: 50px;
   padding-bottom: 50px;
-}
+}*/
 
 /* Three image containers (use 25% for four, and 50% for two, etc)*/
 .column {
   float: left;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
   
   /* Clear floats after image containers*/
